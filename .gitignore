@@ -1,0 +1,6 @@
+__pycache__/*
+output/*
+chromedriver.exe
+compare.py
+Groceries App.png
+uploader.py
